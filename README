@@ -1,10 +1,9 @@
-**Calendar**
-*A simple calendar*
+Calendar
+A simple calendar
 
-**Usage**
+Usage
 
-**Accepts params**
-
+Accepts params
 targetMonth (default is current month) (JS month is 0-based)
 targetYear (default is current year)
 items (Array of objects)
