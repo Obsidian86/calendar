@@ -14,7 +14,7 @@ items (Array of objects)
     { item: "weekly", date: "11-31-2017", end: "5-31-2025", rec: 'weekly' }
     { item: "biWeekly", date: "11-31-2017", end: "5-31-2025", rec: 'biWeekly' }
 
-**Accepts Functions**
+Accepts Functions
   clickDay (what happens when you click a day, callback is object containng date info)
   clickEvent (what happens when you click an event, callback is object containng date info)
   clickThisDate (what happens when you click this date, callback, new date and old date info)
