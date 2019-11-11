@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Cal from "./Cal";
+import 'normalize.css'
+import Cal from "./calendar";
 
 function App() {
   return (
