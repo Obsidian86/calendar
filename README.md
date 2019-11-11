@@ -1,7 +1,7 @@
 ## Calendar
 ### A simple calendar for displaying events
 
-### Usage
+## Usage
 
 ### Accepts params
 
@@ -10,8 +10,7 @@
 **targetYear** default is current year
 
 **items** Array of objects
-
-    ```js
+ 
     var items = [
       // (Sigle item with event marked on calendar)
       { item: "asdasdok", date: "11-21-2019" }, 
@@ -20,8 +19,7 @@
       { item: "year test", date: "11-31-2017", end: "5-31-2025", rec: 'yearly' },
       { item: "weekly", date: "11-31-2017", end: "5-31-2025", rec: 'weekly' },
       { item: "biWeekly", date: "11-31-2017", end: "5-31-2025", rec: 'biWeekly' }
-    ]
-    ```
+    ] 
 
 ### Accepts Functions
 
