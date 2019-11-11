@@ -13,12 +13,12 @@
  
     var items = [
       // (Sigle item with event marked on calendar)
-      { item: "asdasdok", date: "11-21-2019" }, 
+      { item: "item 1", date: "11-21-2019" }, 
       // Recurring objects will include 'rec', and will add an event every monthly/yearly/weekly/biWeekly
-      { item: "range 1-15-2020 5-15", date: "1-15-2020", end: "5-15-2020", rec: 'monthly' },
-      { item: "year test", date: "11-31-2017", end: "5-31-2025", rec: 'yearly' },
-      { item: "weekly", date: "11-31-2017", end: "5-31-2025", rec: 'weekly' },
-      { item: "biWeekly", date: "11-31-2017", end: "5-31-2025", rec: 'biWeekly' }
+      { item: "item 2", date: "1-15-2020", end: "5-15-2020", rec: 'monthly' },
+      { item: "item 3", date: "11-31-2017", end: "5-31-2025", rec: 'yearly' },
+      { item: "item 4", date: "11-31-2017", end: "5-31-2025", rec: 'weekly' },
+      { item: "item 5", date: "11-31-2017", end: "5-31-2025", rec: 'biWeekly' }
     ] 
 
 ### Accepts Functions
