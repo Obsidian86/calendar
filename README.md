@@ -28,6 +28,7 @@
   **clickDay** 
   
   what happens when you click a day, callback is object containing date info
+  
   **clickEvent**
   
   what happens when you click an event, callback is object containing date info
