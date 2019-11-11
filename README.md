@@ -11,7 +11,7 @@
 
 **items** Array of objects
 
-    ```
+    ```js
     var items = [
       // (Sigle item with event marked on calendar)
       { item: "asdasdok", date: "11-21-2019" }, 
