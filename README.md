@@ -4,9 +4,13 @@
 ### Usage
 
 ### Accepts params
+
 **targetMonth** default is current month
+
 **targetYear** default is current year
+
 **items** Array of objects
+
     ```
     var items = [
       // (Sigle item with event marked on calendar)
@@ -20,13 +24,22 @@
     ```
 
 ### Accepts Functions
+
   **clickDay** 
+  
   what happens when you click a day, callback is object containing date info
   **clickEvent**
+  
   what happens when you click an event, callback is object containing date info
+  
   **clickThisDate**
+  
   what happens when you click this date, callback, new date and old date info
+  
   **clickPrev**
+  
   what happens when you click prev date, callback, new date and old date info
+  
   **clickNext**
+  
   what happens when you click next date, callback, new date and old date info
