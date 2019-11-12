@@ -1,6 +1,8 @@
 ## Calendar
 ### A simple calendar for displaying events
 
+https://obsidian86.github.io/calendar/
+
 ## Usage
 
 ### Accepts params
