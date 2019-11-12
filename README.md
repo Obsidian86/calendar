@@ -19,6 +19,8 @@
       { item: "item 3", date: "11-31-2017", end: "5-31-2025", rec: 'yearly' },
       { item: "item 4", date: "11-31-2017", end: "5-31-2025", rec: 'weekly' },
       { item: "item 5", date: "11-31-2017", end: "5-31-2025", rec: 'biWeekly' }
+      // color will give the item a specific color
+      { item: "item 6", date: "11-31-2017", end: "5-31-2025", rec: 'biWeekly', color: 'green' }
     ] 
 
 ### Accepts Functions
