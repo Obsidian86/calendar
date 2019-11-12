@@ -13,7 +13,7 @@ const items = [
   ] 
 
 ReactDOM.render(
-  <>
+  <div style={{margin: '0 auto', maxWidth: '1000px'}}>
     <Calendar 
       items={items}
       clickDay={p => console.log(p)}
@@ -22,5 +22,5 @@ ReactDOM.render(
       clickPrev={p => console.log(p)} 
       clickNext={p => console.log(p)}
     />
-  </>
+  </div>
   , document.getElementById("root"));
