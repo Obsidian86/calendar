@@ -4,6 +4,7 @@
 https://obsidian86.github.io/calendar/
 
 ## Usage
+You really just need the calendar folder. The rest is just for example.
 
 ### Accepts params
 
